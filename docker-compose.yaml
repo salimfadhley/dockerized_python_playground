@@ -5,12 +5,12 @@ x-base-dev: &base-dev
 
 services:
 
-  salpython:
+  python:
     <<: *base-dev
-    image: salpython:latest
+    image: salimfadhley/python_playground:latest
     build:
       context: .
-      target: salpython
+      target: python
     volumes:
       - ./src:/src
       - .:/project
