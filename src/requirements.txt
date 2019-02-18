@@ -3,6 +3,6 @@ gitpython
 uvicorn
 pytest
 mypy
-pylint
+pylint==2.2.2
 pylint2junit
 black
