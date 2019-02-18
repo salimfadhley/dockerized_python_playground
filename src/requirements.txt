@@ -2,7 +2,7 @@ fastapi
 gitpython
 uvicorn
 pytest
-mypy
+mypy==0.670
 pylint
 pylint2junit
 black
