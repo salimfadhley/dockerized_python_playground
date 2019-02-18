@@ -1,5 +1,5 @@
 fastapi
-gitpython
+gitpython==2.1.11
 uvicorn
 pytest
 mypy
