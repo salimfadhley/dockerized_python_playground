@@ -1,6 +1,6 @@
 fastapi
 gitpython
-uvicorn
+uvicorn==0.4.5
 pytest
 mypy
 pylint
