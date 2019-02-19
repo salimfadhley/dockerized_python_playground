@@ -1,7 +1,7 @@
 fastapi
 gitpython
 uvicorn
-pytest
+pytest==4.3.0
 mypy
 pylint
 pylint2junit
