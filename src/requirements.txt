@@ -1,4 +1,4 @@
-fastapi
+fastapi==0.6.1
 gitpython
 uvicorn
 pytest
