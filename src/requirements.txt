@@ -3,6 +3,6 @@ gitpython
 uvicorn==0.4.6
 pytest
 mypy==0.670
-pylint
+pylint==2.3.0
 pylint2junit
 black
