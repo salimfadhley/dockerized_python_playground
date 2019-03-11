@@ -1,6 +1,6 @@
 fastapi==0.6.4
 gitpython
-uvicorn==0.4.6
+uvicorn==0.5.2
 pytest
 mypy==0.670
 pylint==2.3.1
