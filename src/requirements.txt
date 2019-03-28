@@ -1,9 +1,9 @@
-fastapi==0.6.3
+fastapi==0.6.4
 gitpython
 uvicorn==0.4.6
 pytest
 mypy==0.670
-pylint==2.3.0
+pylint==2.3.1
 pylint2junit
 black
 hmac
