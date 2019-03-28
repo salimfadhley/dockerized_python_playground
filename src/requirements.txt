@@ -6,4 +6,4 @@ mypy==0.670
 pylint==2.3.1
 pylint2junit
 black
-hmac
+hmac==20101005
