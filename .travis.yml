@@ -1,8 +1,7 @@
 language: python
+services:
+  - docker
 python:
 - '3.6'
 install:
-  - python -m pip install -r src/requirements.txt
-  - python -m pip install -r src/dev_requirements.txt
-script:
-  - python -m pytest src/tests
+  - docker-compose build
