@@ -1,6 +1,6 @@
 language: python
 python:
-- '3.7'
+- '3.6'
 install:
   - python -m pip install -r src/requirements.txt
   - python -m pip install -r src/dev_requirements.txt
