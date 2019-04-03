@@ -4,4 +4,4 @@ services:
 python:
 - '3.6'
 install:
-  - docker-compose build
+  - docker build . -t salimfadhley/dockerized_python_playground:latest
