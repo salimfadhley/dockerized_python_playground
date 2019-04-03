@@ -15,11 +15,13 @@ def is_prime(num):
             return False
     return True
 
+
 def Primes(num):
     if is_prime(num):
         return "true"
     else:
         return "false"
+
 
 if __name__ == "__main__":
     print(Primes(1079))
