@@ -1,3 +1,3 @@
 fastapi==0.6.4
 gitpython
-uvicorn==0.4.6
+uvicorn==0.27.1
